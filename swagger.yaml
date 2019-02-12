@@ -1,4 +1,5 @@
-openapi: 3.0.1
+swagger: 2.0
+#openapi: 3.0.1
 info:
   title: defaultTitle
   description: defaultDescription
